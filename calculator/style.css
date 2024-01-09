@@ -1,0 +1,25 @@
+h1{
+    font-family: fantasy;
+    font-style:italic;
+}
+
+body{
+    text-align: center;
+}
+
+.buttons{
+    padding:15px;
+    margin:8px 2px;
+    border:2px solid black;
+    font-size: large;
+    border-radius: 10px;
+}
+
+.i{
+    padding:15px 17px;
+}
+
+.input{
+    padding:5px 15px;
+    border: 2px solid black;
+}
